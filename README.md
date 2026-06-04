@@ -1,6 +1,11 @@
 # 가비아 AI 허브 사용 예제
 
-여러 AI 모델(OpenAI, Anthropic, Google, DeepSeek 등)을 **하나의 API Key·하나의 엔드포인트**로 사용할 수 있는 AI Gateway입니다.
+> **가비아 AI 허브 공식 페이지:** https://aihub.gabiacloud.com/
+> **API Key 발급:** 가비아 클라우드(Gen2) 가입 → AI 허브 신청 → 콘솔에서 발급
+
+## AI 허브란?
+
+여러 AI 모델(OpenAI, Anthropic, Google, DeepSeek 등)을 **하나의 API Key·하나의 엔드포인트**로 사용할 수 있는 AI API Gateway입니다.
 
 가장 큰 장점은 **기존에 쓰던 SDK를 그대로 쓸 수 있다**는 점입니다. OpenAI SDK든 Anthropic SDK든, `base_url` 만 가비아 AI 허브로 바꾸면 됩니다.
 
