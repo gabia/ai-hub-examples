@@ -1,6 +1,7 @@
 # 가비아 AI 허브 사용 예제
 
 > **가비아 AI 허브 공식 페이지:** https://aihub.gabiacloud.com/
+>
 > **API Key 발급:** 가비아 클라우드(Gen2) 가입 → AI 허브 신청 → 콘솔에서 발급
 
 ## AI 허브란?
