@@ -1,0 +1,23 @@
+{
+  "name": "ai-hub-examples-node",
+  "version": "1.0.0",
+  "description": "가비아 AI 허브 Node.js 사용 예제",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "quickstart": "node 01_quickstart.mjs",
+    "list-models": "node 02_list_models.mjs",
+    "streaming": "node 03_streaming.mjs",
+    "function-calling": "node 04_function_calling.mjs",
+    "responses": "node 05_responses.mjs",
+    "embeddings": "node 06_embeddings.mjs",
+    "anthropic": "node 07_anthropic_sdk.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "dotenv": "^16.4.0",
+    "openai": "^4.87.0"
+  }
+}
